@@ -1,1 +1,1 @@
-![](/public/Screenshot%202023-06-23%20at%2019.56.50.png)
+![](./public/sample.png)
