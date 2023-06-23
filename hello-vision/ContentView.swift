@@ -42,12 +42,12 @@ struct ContentView: View {
                     Text("Add Task")
                 }
 
-                Model3D(named: "Scene", bundle: realityKitContentBundle)
-                    .padding(.bottom, 50)
+//                Model3D(named: "Scene", bundle: realityKitContentBundle)
+//                    .padding(.bottom, 50)
 
-                Toggle("Show ImmersiveSpace", isOn: $showImmersiveSpace)
-                    .toggleStyle(.button)
-                    .padding(.top, 50)
+//                Toggle("Show ImmersiveSpace", isOn: $showImmersiveSpace)
+//                    .toggleStyle(.button)
+//                    .padding(.top, 50)
             }
             .navigationTitle("Content")
             .padding()
